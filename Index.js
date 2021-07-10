@@ -28,20 +28,3 @@ function personasJson()
 }
 
 
-
-
-
-/*fetch('http://www.raydelto.org/itla/agenda',{
-    method: 'POST',
-    body: JSON.stringify(form),
-    Headers: {
-        "content-type" : "application/json"
-    }
-
-})
-
-.then(res => res.json())
-.then(data => console.log(data))
-*/
-
-
